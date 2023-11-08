@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Data Structures
 - 📫 How to reach me veerendrababu80@gmail.com
-- ✨ Skills - Data Structues,JAVA, Python, Mysql, ML
+- ✨ Skills - Data Structues, Python, Mysql, ML, HTML/CSS/JS
 
 <!---
 VEERENDRA-143/VEERENDRA-143 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
