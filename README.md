@@ -1,6 +1,15 @@
 <h2 align="left">Hi 👋! My name is Banne Veerendra Babu.</h2>
 
 ###
+<div align = "center>
+  ### About Me <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" />
+  - 🥇 Compitative Programmer <br>
+  - ⭐ 3-star LeetCode, 5-star HackerRank <br>
+  - ✅ 500+ DSA Questions conquered <br>
+  </div>
+<h2></h2>
+
+###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=VEERENDRA-143&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=10" height="200" alt="streak graph"  />
@@ -8,7 +17,7 @@
 </div>
 
 ###
-
+<h2></h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -30,7 +39,7 @@
 </div>
 
 ###
-
+<h2></h2>
 <div align="center">
   <a href="veerendrababu80@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
@@ -44,6 +53,7 @@
 </div>
 
 ###
+<h2></h2>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/VEERENDRA-143/count.svg?"  />
