@@ -4,7 +4,6 @@
 <div align = "center>
   ### About Me <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" />
   - 🥇 Compitative Programmer <br>
-  - ⭐ 3-star LeetCode, 5-star HackerRank <br>
   - ✅ 500+ DSA Questions conquered <br>
   </div>
 <h2></h2>
